@@ -1,10 +1,23 @@
 <html>
     <head>
-        <title>My First HTML Page</title>
-    </head>
-    <body>
-        <h1>My first, simple, HTML page</h1>
-
-        <p>This is a test, do not panic</p>
+      <h1>THE MONKEES</h1>
+      <h3> Music
+        <ul>       <li><a href="https://itunes.apple.com/gb/artist/the-monkees/id4512388">Apple Music</a></li>
+        <li><a href="https://play.google.com/store/music/artist/The_Monkees?id=An2wb6r6lbgajlnmmxtjiops3xm&hl=en_GB">Google Play</a></li>
+          <li><a href='https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck'>Spotify</a></li>
+        </ul>
+      </h3>
+      <h3> Vidoes </h3>
+      <h4> TV Series:
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=qFjNlDcQN_g"> Monkees TV</a></li>
+        </ul>
+        </p>
+      <h3> Contact us </h3>
+          <a href="mailto:monkees@example.com">email monkees</a>
+      <h3> Book The Band </h3>
+      <h3> Lets Be Social </h3>
+          <h3> Monkees Radio </h3>
+      
     </body>
 </html>
