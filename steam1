@@ -1,23 +1,53 @@
-<html>
-    <head>
-      <h1>THE MONKEES</h1>
-      <h3> Music
-        <ul>       <li><a href="https://itunes.apple.com/gb/artist/the-monkees/id4512388">Apple Music</a></li>
+<!DOCTYPE> <html>
+<head>
+  <title>THE MONKEES</title>
+</head
+  <figure>
+  <img src="http://www.monkees.com/sites/all/themes/twitter_bootstrap/bootstrap/img/monkees-logo.png" alt=themonkees />
+  </figure>
+<h3> Music
+  <ul>       <li><a href="https://itunes.apple.com/gb/artist/the-monkees/id4512388">Apple Music</a></li>
         <li><a href="https://play.google.com/store/music/artist/The_Monkees?id=An2wb6r6lbgajlnmmxtjiops3xm&hl=en_GB">Google Play</a></li>
           <li><a href='https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck'>Spotify</a></li>
         </ul>
       </h3>
       <h3> Vidoes </h3>
-      <h4> TV Series:
+      <h3> TV Series:
         <ul>
           <li><a href="https://www.youtube.com/watch?v=qFjNlDcQN_g"> Monkees TV</a></li>
         </ul>
         </p>
       <h3> Contact us </h3>
-          <a href="mailto:monkees@example.com">email monkees</a>
+          <a href="mailto:monkees@example.com">Email The Monkees</a>
+  
+  <body>
+    <p> <b>Monkees News Direct To You </b> </p>
+       <form action="http://posttestserver.com/post.php" method="post">        
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="email" name="email"><br>
+        <input type="submit" value="Hey Hey">
+      </form>
+    </body>
+  
+  
       <h3> Book The Band </h3>
       <h3> Lets Be Social </h3>
-          <h3> Monkees Radio </h3>
+  <body>
+    <a href="https://en-gb.facebook.com/TheMonkees/" target="_blank">Facebook</a>
+    <a href="https://twitter.com/themonkees?lang=en"target="_blank">Twitter</a>
+    <a href="https://www.instagram.com/themonkees/"target="_blank">Instagram</a>
+    <a href="https://www.youtube.com/user/themonkees"target="_blank">YouTube</a>
+  </body>
+<h3> Monkees Radio </h3>
       
-    </body>
+  <body> 
+    <p>Who even are the monkees? </p></body>
+  <footer> <a href="https://en-gb.facebook.com/TheMonkees/" target="_blank">Facebook</a>
+    <a href="https://twitter.com/themonkees?lang=en"target="_blank">Twitter</a>
+    <a href="https://www.instagram.com/themonkees/"target="_blank">Instagram</a>
+    <a href="https://www.youtube.com/user/themonkees"target="_blank">YouTube</a>
+    <a href="https://itunes.apple.com/gb/artist/the-monkees/id4512388"target'_blank'>iTunes</a>
+    <a href="https://play.google.com/store/music/artist/The_Monkees?id=An2wb6r6lbgajlnmmxtjiops3xm&hl=en_GB"target="_blank">Google Play</a>
+    <a href="https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"target"_blank">Spotify</a>
+  </footer>
 </html>
