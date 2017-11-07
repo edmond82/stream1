@@ -1,11 +1,18 @@
-<!DOCTYPE> <html>
+<html>
 <head>
   <title>THE MONKEES</title>
 </head
   <figure>
-  <img src="http://www.monkees.com/sites/all/themes/twitter_bootstrap/bootstrap/img/monkees-logo.png" alt=themonkees />
+  <img src="http://www.monkees.com/sites/all/themes/twitter_bootstrap/bootstrap/img/monkees-logo.png" alt="themonkees" width="600" height="400" />
   </figure>
-<h3> Music
+  <header><b>
+    <a href="Music.html">Music</a> <a href="The Band.html">The Band</a> <a href="Tour">Tour</a> <a href="Book The Band">Book The Band</a> <a href="TV">TV</a> <a href="Lets Be Social">Lets Be Social</a> <a href="Contact Us">Contact Us</a>
+  </header>
+  <div class="inner">
+  <img src="http://media.npr.org/assets/img/2016/05/17/the-monkees_wide-1f3bc50b16a1851423f14dce7d4f2d69038538cd-s900-c85.jpg" alt="grouppic" width="600" />
+     </div>
+  
+<h2> Music
   <ul>       <li><a href="https://itunes.apple.com/gb/artist/the-monkees/id4512388">Apple Music</a></li>
         <li><a href="https://play.google.com/store/music/artist/The_Monkees?id=An2wb6r6lbgajlnmmxtjiops3xm&hl=en_GB">Google Play</a></li>
           <li><a href='https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck'>Spotify</a></li>
@@ -28,8 +35,6 @@
         <input type="submit" value="Hey Hey">
       </form>
     </body>
-  
-  
       <h3> Book The Band </h3>
       <h3> Lets Be Social </h3>
   <body>
